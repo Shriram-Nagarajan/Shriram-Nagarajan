@@ -2,4 +2,4 @@
 - 👀 I’m interested in Java, React, Electron and Node
 - 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on Open source projects in Java
-- 📫 How to reach me shriram64misc@gmail.com
+- 📫 How to reach me nshriram4895@gmail.com
