@@ -1,5 +1,2 @@
 - 👋 Hi, I’m Shriram
-- 👀 I’m interested in Java, React and Node
-- 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on Open source projects in Solidity
-- 📫 How to reach me nshriram4895@gmail.com
+- 👀 I am experienced with Ethereum, Java, React and Node
